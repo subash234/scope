@@ -22,6 +22,6 @@ function  sum(){
 sum();
 console.log("in the master branch");
 console.log('connected to remote branch from local branch')
-.console.log("workinng on the staging area");
+console.log("workinng on the staging area");
 
 
