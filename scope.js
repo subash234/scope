@@ -1,4 +1,4 @@
-console.log("inside the scope.js file");
+console.log("inside the scope.js");
 // let d=10000;
 // const e=1000000;
 
