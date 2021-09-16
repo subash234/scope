@@ -20,6 +20,6 @@ function  sum(){
     console.log(a);
 }
 sum();
-console.log('connected to remote branch from local branch');q
+console.log('connected to remote branch from local branch');
 
 
