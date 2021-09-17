@@ -20,8 +20,11 @@ function  sum(){
     console.log(a);
 }
 sum();
+
 console.log("in the master branch");
 console.log('connected to remote branch from local branch')
 console.log("workinng on the staging area");
+
+console.log('connected to remote branch from local branch');
 
 
